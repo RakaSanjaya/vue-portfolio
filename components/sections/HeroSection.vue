@@ -12,7 +12,7 @@
                     <h2 class="font-bold text-md text-center md:text-start text-white">Jakarta, Indonesia</h2>
                     <p class="text-white text-center md:text-start">I Wanna be a Fullstack Web Developer</p>
                     <UiSosmed />
-                    <NuxtLink to="cv.pdf" class="mt-4 lg:mt-2 w-full md:w-fit hover:border-blue bg-white
+                    <NuxtLink to="/cv.pdf" class="mt-4 lg:mt-2 w-full md:w-fit hover:border-blue bg-white
                     text-dark py-3 px-8 font-bold text-sm rounded-full text-center">
                         Download CV
                     </NuxtLink>
