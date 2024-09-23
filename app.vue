@@ -1,6 +1,6 @@
 <template>
   <NuxtLayout>
-    <section>
+    <section class="font-poppins">
       <NuxtPage />
     </section>
   </NuxtLayout>
